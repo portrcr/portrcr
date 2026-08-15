@@ -57,7 +57,7 @@ I’m always exploring new technologies and paradigms. Whether it’s digging in
 </details>
 
 ## Contact info
-<a href="https://www.twitter.com/hexPortRacer/">
+<a href="https://www.twitter.com/portrcr/">
 	<img width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg">
 </a>
 &nbsp;&nbsp;&nbsp;
